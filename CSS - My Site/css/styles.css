@@ -1,0 +1,30 @@
+body {
+  background-color: c3aed6;
+  font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  text-align: center;
+}
+
+.top-container {
+margin-top: 80px;
+}
+.vector {
+  position:relative;
+  left: 30%;
+}
+
+.secondvector {
+  height: 130px;
+  width: 150px;
+  border-radius: 20%;
+}
+.middle-container {}
+#bb {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.bottom-container {}
+
+.dev {
+  text-decoration: underline;
+}
